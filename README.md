@@ -1,4 +1,4 @@
-https://github.com/wleivax/HW2/
+https://wleivax.github.io/HW2/
 
 # HW2
 
