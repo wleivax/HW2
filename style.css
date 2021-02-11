@@ -21,7 +21,7 @@ h1{
 
 
 article{
-    float: left;
+    /* float: left; */
     margin: 3%;
     background-color:lightgrey;
 }
@@ -36,7 +36,7 @@ p2{
     text-align: justify;
 }
 
-img{
+#aboutImg{
     padding-right: 10px;
     padding-left: 10px;
     padding-top: 10px;
@@ -55,8 +55,22 @@ footer{
     width: 100%;
     padding-left: 3%;
     padding-bottom: 2%
-    position: relative;
+    
 }
 
+#profilePic {
+    width: 15ch;
+    height: 21ch;
+}
 
+.mt-0{
+    padding-left: 1ch;
+}
 
+.media{
+    padding: 5ch;
+}
+
+.accordion-flush{
+    
+}
